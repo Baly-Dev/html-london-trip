@@ -1,7 +1,8 @@
-# Progetto 02 - Boolean
+# Project 02 - Boolean
 
-**Dati progetto**
+**Project data**
 
-* data: 20/05/22
-* nome: html-london-trip
-* linguaggi: HTML
+* date: 20/05/22
+* name: html-london-trip
+* languages: HTML
+* author: Kevin Baly
